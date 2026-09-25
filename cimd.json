@@ -1,5 +1,5 @@
 {
-  "client_id": "https://glenn.github.io/cimd.json",
+  "client_id": "https://raw.githubusercontent.com/glenns247/glenn.github.io/refs/heads/main/cimd.json",
   "client_name": "Dev CIMD Client",
   "application_type": "native",
   "grant_types": ["authorization_code", "refresh_token"],
