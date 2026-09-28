@@ -4,7 +4,7 @@
   "application_type": "native",
   "grant_types": ["authorization_code", "refresh_token"],
   "redirect_uris": [
-    "http://127.0.0.1:58165/"
+    "http://127.0.0.1/"
   ],
   "token_endpoint_auth_method": "none",
   "response_types": ["code"]
