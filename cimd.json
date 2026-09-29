@@ -4,7 +4,9 @@
   "application_type": "native",
   "grant_types": ["authorization_code", "refresh_token"],
   "redirect_uris": [
-    "http://127.0.0.1/"
+    "http://127.0.0.1/",
+    "http://localhost:8787/callback",
+    "https://www.cursor.com/agents/mcp/oauth/callback"
   ],
   "token_endpoint_auth_method": "none",
   "response_types": ["code"]
